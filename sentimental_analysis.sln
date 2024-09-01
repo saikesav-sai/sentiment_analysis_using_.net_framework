@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sentimental_analysis", "sentimental_analysis\sentimental_analysis.csproj", "{7D72C70C-9D47-4AF7-A303-3E507D3F282F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D72C70C-9D47-4AF7-A303-3E507D3F282F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D72C70C-9D47-4AF7-A303-3E507D3F282F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D72C70C-9D47-4AF7-A303-3E507D3F282F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D72C70C-9D47-4AF7-A303-3E507D3F282F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {337A120A-76B7-43F0-96FA-C2680B56FC07}
+	EndGlobalSection
+EndGlobal
